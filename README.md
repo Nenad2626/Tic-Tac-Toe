@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Classic game made in Javascript.In this game you are playing with the computer,computer is invincible.Try to win but you won't make at :) .
+Classic game made in Javascript.You are playing against computer so try to win :).Every time someone wins or game ends tie game reloads.Good luck.
